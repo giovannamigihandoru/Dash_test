@@ -1,0 +1,5 @@
+dash==4.1.0
+PyMuPDF==1.27.2.3
+plotly==6.7.0
+Werkzeug==3.1.8
+Flask==3.1.1
