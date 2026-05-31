@@ -1,0 +1,11 @@
+# PDFs
+data/**/*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Saved text data
+texts.json
